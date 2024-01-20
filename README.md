@@ -1,4 +1,4 @@
-# Self-Introduction
+# Self-Introduction (Resume attached)
 👋 Hello, fellow coders! I'm Rishapp Rajesh, a dynamic Data Scientist and Business Analyst based in Dallas, TX, with a passion for transforming raw data into actionable insights. Currently pursuing a Master's in Business Analytics at The University of Texas at Dallas, my academic journey has equipped me with a solid foundation in Applied Machine Learning, Database Foundations, Data Visualization, Big Data, and Advanced Statistics.
 
 💻 My technical prowess spans a diverse range of tools and languages, including SQL, MS Excel, Tableau, R programming, Python, MongoDB, ETL pipelines, Power BI, Git, Jira, and Confluence. Certified in Tableau Fundamentals and experienced in Case Study analysis, I bring hands-on expertise in extracting meaningful insights from complex datasets.
