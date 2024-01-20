@@ -7,7 +7,7 @@
 
 🚀 Beyond the corporate realm, I've led impactful projects, including predictive maintenance using Python Machine Learning tools and exploratory data analysis for a coffee chain, showcasing my versatility in real-world applications.
 
-📚 Currently serving as a Teaching Assistant and a proud member of the Business Analyst Leadership Council, I am committed to continuous learning and sharing knowledge within the community.
+📚 Currently serving as a Teaching Assistant at UT Dallas and a proud member of the Business Analyst Leadership Council(BALC), I am committed to continuous learning and sharing knowledge within the community.
 
 🌟 Let's connect, collaborate, and code something extraordinary together! Explore my repositories, share insights, or reach out on LinkedIn(Rishapp Rajesh). Happy coding! 🚀
 
